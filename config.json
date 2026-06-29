@@ -9,5 +9,6 @@
     "filingNum":"冀ICP备2025102025号",
     "bottomText":"转载请注明出处",
     "yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],
+    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>",
     "GMEEK_VERSION":"last"
 }
